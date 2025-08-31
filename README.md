@@ -66,3 +66,18 @@ Por una parte, se habla de niveles de voltaje:
 Y se considera estar fuera ambos de los rangos establecidos como una condición de estado inválido.  
 
 Además, tiene una estructura establecida donde se tiene el bit de inicio que por lo general es 0, después los datos de 5-8 bits, la paridad y los bits de parada.
+También, no tiene direccionamiento incorporado como el internet.  
+
+---
+
+## Referencias
+
+1. ANSI, American National Standard for Information Systems — Coded Character Sets — 7-Bit American Standard Code for Information Interchange (ASCII), ANSI X3.4-1986, American National Standards Institute, 1986.  
+
+2. TIA/EIA, Interface Between Data Terminal Equipment and Data Circuit-Terminating Equipment Employing Serial Binary Data Interchange (RS-232C), TIA/EIA-232-F Standard, Telecommunications Industry Association, 1997.  
+
+3. USconverters, “RS232 Pinout and Specifications,” USconverters.com. [En línea]. Disponible en: https://www.usconverters.com/rs232-pinout-cable. [Accedido: 31-Aug-2025].  
+
+4. CAMI Research, “RS232 Serial Communications - Pinouts,” Camiresearch.com. [En línea]. Disponible en: https://www.camiresearch.com/Data_Com_Basics/RS232_standard.html. [Accedido: 31-Aug-2025].  
+
+5. Aggsoft, “RS232 Pinout and Wiring,” Aggsoft.com. [En línea]. Disponible en: https://www.aggsoft.com/rs232-pinout-cable/RS232.htm. [Accedido: 31-Aug-2025].
