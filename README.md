@@ -32,7 +32,8 @@ El protocolo correspondiente a RS232 define un sistema de comunicación de tipo 
 | 8   | CTS   | Clear To Send – Permiso para enviar |
 | 9   | RI    | Ring Indicator – Señal de timbrado |
 
-![Diagrama DB9](URL_imagen_DB9)
+![Diagrama DB9](./Captura%20de%20pantalla%202025-08-30%20232523.png)
+
 
 ---
 
