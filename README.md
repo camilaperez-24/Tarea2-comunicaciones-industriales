@@ -33,8 +33,7 @@ El protocolo correspondiente a RS232 define un sistema de comunicación de tipo 
 | 9   | RI    | Ring Indicator – Señal de timbrado |
 
 
-![Diagrama DB9](./DB1.jpg)
-
+![Diagrama DB9](./db9.jpg)
 
 ---
 
@@ -52,7 +51,7 @@ El protocolo correspondiente a RS232 define un sistema de comunicación de tipo 
 | 20  | DTR   | Data Terminal Ready |
 | 22  | RI    | Ring Indicator |
 
-![Diagrama DB25](./DB2.jpg)
+![Diagrama DB25](./db25.jpg)
 
 ---
 
